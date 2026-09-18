@@ -1,0 +1,6 @@
+.env
+.env.swp
+scanner_session.session
+scanner.db
+__pycache__/
+*.pyc
